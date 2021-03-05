@@ -1,0 +1,9 @@
+{
+  "redirections": [
+    {
+      "source_path": "industry-solutions/index.md",
+      "redirect_url": "healthcare/index",
+      "redirect_document_id": "false"
+    }
+  ]
+}
